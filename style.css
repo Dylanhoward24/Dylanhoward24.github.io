@@ -1,3 +1,13 @@
+body {
+  margin: auto;
+  width: 50%
+  border: 3px solid yellow;
+}
+
+.name {
+  font-family: arial, helvetica, sans-serif
+}
+
 .jobtitle {
   border: 1px solid black;
   text-align: center;
