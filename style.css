@@ -1,18 +1,27 @@
 body {
   margin: auto;
-  width: 75%;
-  border: 3px solid black;
+  width: 60%;
+  border: 5px solid black;
   padding: 10px;
 }
 
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
 .name {
-  font-family: arial, helvetica, sans-serif
+  font-family: arial, helvetica, sans-serif;
+}
+
+.pinfo  {
+  font-family: arial, helvetica, sans-serif;
 }
 
 .jobtitle {
-  border: 1px solid black;
   text-align: center;
-  font-family: arial, helvetica, sans-serif
+  font-family: arial, helvetica, sans-serif;
+  padding-top: 10px;
 }
 
 .performancesummary {
