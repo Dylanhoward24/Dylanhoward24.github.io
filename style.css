@@ -1,18 +1,20 @@
 body {
   margin: auto;
-  width: 60%;
+  width: 90%;
   border: 5px solid black;
-  padding: 10px;
+  padding: 60px;
+  font-family: arial, helvetica, sans-serif;
 }
 
 h1 {
   margin: 0px;
   padding: 0px;
+  color: rgba(0, 0, 255, 1);
 }
 
 h3 {
   text-align: center;
-  background: rgba(0, 0, 0, 0.075)
+  background-color: rgba(255, 0, 0, .30);
 }
 
 h4 {
@@ -20,25 +22,12 @@ h4 {
   padding: 0px;
 }
 
-p {
+h5 {
   margin: 0px;
   padding: 0px;
 }
 
-.name {
-  font-family: arial, helvetica, sans-serif;
-}
-
-.pinfo  {
-  font-family: arial, helvetica, sans-serif;
-}
-
-.jobtitle {
-  text-align: center;
-  font-family: arial, helvetica, sans-serif;
-  padding-top: 10px;
-}
-
-.performancesummary {
-  font-family: arial, helvetica, sans-serif
+p {
+  margin: 0px;
+  padding: 0px;
 }
