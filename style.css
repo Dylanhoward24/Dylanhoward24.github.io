@@ -1,6 +1,6 @@
 body {
-  margin: auto;
-  width: 50%;
+  margin: 5%;
+  width: 90%;
   border: 5px solid black;
   padding: 60px;
   font-family: arial, helvetica, sans-serif;
@@ -12,9 +12,14 @@ h1 {
   color: rgba(0, 0, 255, 1);
 }
 
+h2 {
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+}
+
 h3 {
   text-align: center;
-  background-color: rgba(255, 0, 0, .30);
+  background-color: rgba(0, 0, 0, .25);
 }
 
 h4 {
@@ -30,4 +35,8 @@ h5 {
 p {
   margin: 0px;
   padding: 0px;
+}
+
+.pinfo {
+  color: rgba(0, 0, 255, .75)
 }
