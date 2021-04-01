@@ -25,6 +25,5 @@ p {
 }
 
 .performancesummary {
-  border: 1px solid black;
-  font-family: arial, helvetica, sans-serif;
+  font-family: arial, helvetica, sans-serif
 }
